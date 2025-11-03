@@ -19,7 +19,7 @@ This confirms the installation was successful and the server is ready for future
 ---
 
 ## 📸 Screenshots
-
+In the folder
 
 ---
 
