@@ -19,7 +19,8 @@ This confirms the installation was successful and the server is ready for future
 ---
 
 ## 📸 Screenshots
-In the folder
+![Screenshot 1](./Screenshot (147).png)
+![Screenshot 2](./Screenshot (148).png)
 
 ---
 
