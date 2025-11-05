@@ -1,0 +1,35 @@
+Cameron Mckenzie
+Date: 11/05/2025
+
+
+1. Installation Summary
+
+Installed Windows Server 2019 (Desktop Experience) in VirtualBox. Configured admin password, hostname, and IP settings.
+
+2. Configuration Details
+
+Hostname: SRV-LAB01
+
+IP: 192.168.1.10
+
+Subnet: 255.255.255.0
+
+Gateway: 192.168.1.1
+
+DNS: 8.8.8.8
+
+Remote Desktop: Enabled
+
+3. Verification
+
+System boots correctly with Desktop Experience
+
+Server Manager opens automatically
+
+RDP and network connectivity confirmed via ping
+
+Screenshots attached
+
+4. Reflection
+
+This lab taught me how to install and configure a baseline Windows Server 2019 system, assign static network settings, and prepare for remote management. It helped me understand how on-prem servers are initially configured before domain setup.
