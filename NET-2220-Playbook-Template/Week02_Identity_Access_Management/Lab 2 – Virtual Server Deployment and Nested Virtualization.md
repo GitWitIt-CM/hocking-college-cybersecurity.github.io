@@ -87,7 +87,5 @@ To recreate this environment:
 
 ---
 
-### **Optional AWS Comparison (Not Completed)**
-(If completed later, add AWS screenshots + comparison paragraph here.)
 
 
