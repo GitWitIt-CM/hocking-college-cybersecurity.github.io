@@ -45,7 +45,7 @@ Deploy a Windows Server 2019 Datacenter (Desktop Experience) virtual machine in 
 ### **Evidence / Screenshots**
 
 #### Screenshot 1 – VirtualBox Network Settings (Bridged Adapter)
-![Screenshot 172](./Screenshot(172).png)
+![Screenshot 172](./Screenshot%20(172).png)
 
 #### Screenshot 2 – VM Settings (CPU, RAM, Storage)
 ![Screenshot 173](./Screenshot%20(173).png)
