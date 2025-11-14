@@ -38,7 +38,19 @@ Install Windows Server 2019 Datacenter (Desktop Experience) in a virtual environ
 ---
 
 ### Evidence / Screenshots
- 
+
+#### Screenshot 1 – Desktop After First Login
+![Screenshot 1](./Screenshot%20(170).png)
+
+#### Screenshot 2 – PowerShell Output (systeminfo)
+![Screenshot 2](./Screenshot%20(167).png)
+
+#### Screenshot 3 – PowerShell Output (Get-ComputerInfo)
+![Screenshot 3](./Screenshot%20(168).png)
+
+#### Screenshot 4 – System Properties Window
+![Screenshot 4](./Screenshot%20(169).png)
+
 
 ---
 
